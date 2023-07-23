@@ -1,16 +1,5 @@
-# covid_tracker
+Here's the video demonstration of the app:
 
-A new Flutter project.
+https://github.com/heyharshiiii/CovidTrackerApp/assets/100566923/3e548b80-220e-4be9-97a6-ec0037aa908e ❤️
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
