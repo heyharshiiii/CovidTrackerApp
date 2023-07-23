@@ -72,7 +72,7 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
               Text('-By Harshita Acharya',
               style: GoogleFonts.caveat(
                 fontWeight: FontWeight.w700,
-                fontSize: 20.0
+                fontSize: 10.0
               )),
         ],
       )),
